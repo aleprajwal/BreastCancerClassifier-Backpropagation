@@ -10,7 +10,7 @@
    -- Date: 15 July 1992
 
 
-4. Relevant Information:
+3. Relevant Information:
 
    Samples arrive periodically as Dr. Wolberg reports his clinical cases.
    The database therefore reflects this chronological grouping of the data.
@@ -41,11 +41,11 @@
    #####                  : Changed 0 to 1 in field 8 of following sample:
    #####                  : 1182404,2,3,1,1,1,2,0,1,1,1
 
-5. Number of Instances: 699 (as of 15 July 1992)
+4. Number of Instances: 699 (as of 15 July 1992)
 
-6. Number of Attributes: 10 plus the class attribute
+5. Number of Attributes: 10 plus the class attribute
 
-7. Attribute Information: (class attribute has been moved to last column)
+6. Attribute Information: (class attribute has been moved to last column)
 
    #  Attribute                     Domain
    -- -----------------------------------------
@@ -61,12 +61,12 @@
   10. Mitoses                       1 - 10
   11. Class:                        (2 for benign, 4 for malignant)
 
-8. Missing attribute values: 16
+7. Missing attribute values: 16
 
    There are 16 instances in Groups 1 to 6 that contain a single missing 
    (i.e., unavailable) attribute value, now denoted by "?".  
 
-9. Class distribution:
+8. Class distribution:
  
    Benign: 458 (65.5%)
    Malignant: 241 (34.5%)

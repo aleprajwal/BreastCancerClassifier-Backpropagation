@@ -1,8 +1,9 @@
 # BreastCancerClassifier-Backpropagation
 
-This classifier was developed as college minor project. Feedforward Backpropagation Neural Network was used to create classifier. This model was designed from scratch. Only basic library like Numpy was used to create this model. We used dataset from Wisconsin Machine Learning Repository for training and testing model. Cleaning and normalization was done on this data before using it.  
+This classifier was developed as college minor project. Feedforward Backpropagation Neural Network was used to create classifier. This model was designed from scratch. Only basic library like Numpy was used to create this model. Dataset from Wisconsin Machine Learning Repository for training and testing model. Cleaning and normalization was done on this data before using it.  
 
 Two python files 1. trainTest.py --for creating model and to train and test it
+
                  2. output.py    --for classifiying new data
 
 Main aim was to implement algorithm so this model donot have high accuracy.
